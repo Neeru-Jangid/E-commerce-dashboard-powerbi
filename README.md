@@ -24,13 +24,13 @@ This project analyzes e-commerce data to understand customer behavior, delivery 
 ## 📸 Dashboard Preview
 
 ### Overview
-![Overview](Images/Overview.png)
+![Overview](E-Commerce-Dashboard/Images/Delivery.png)
 
 ### Delivery Analysis
-![Delivery](Tmages/Delivery.png)
+![Delivery](E-Commerce-Dashboard/Tmages/Delivery.png)
 
 ### Seller Analysis
-![Seller](Images/Seller.png)
+![Seller](E-Commerce-Dashboard/Images/Seller.png)
 
 ### Final Insights
-![Final](Images/Final.png)
+![Final](E-Commerce-Dashboard/Images/Final.png)
