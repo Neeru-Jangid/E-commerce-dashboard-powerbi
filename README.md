@@ -24,13 +24,13 @@ This project analyzes e-commerce data to understand customer behavior, delivery 
 ## 📸 Dashboard Preview
 
 ### Overview
-![Overview](E-Commerce-Dashboard/Images/Delivery.png)
+![Overview](https://github.com/Neeru-Jangid/E-commerce-dashboard-powerbi/tree/main/E-Commerce%20Dashboard/Images/Delivery.png)
 
 ### Delivery Analysis
-![Delivery](E-Commerce-Dashboard/Tmages/Delivery.png)
+![Delivery](https://github.com/Neeru-Jangid/E-commerce-dashboard-powerbi/tree/main/E-Commerce%20Dashboard/Images/Delivery.png)
 
 ### Seller Analysis
-![Seller](E-Commerce-Dashboard/Images/Seller.png)
+![Seller](https://github.com/Neeru-Jangid/E-commerce-dashboard-powerbi/tree/main/E-Commerce%20Dashboard/Images/Seller.png)
 
 ### Final Insights
-![Final](E-Commerce-Dashboard/Images/Final.png)
+![Final](https://github.com/Neeru-Jangid/E-commerce-dashboard-powerbi/tree/main/E-Commerce%20Dashboard/Images/Final.png)
